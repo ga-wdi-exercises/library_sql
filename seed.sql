@@ -24,26 +24,26 @@ INSERT INTO books(title, publication_date, author_id) VALUES ('Harry Potter and 
 INSERT INTO books(title, publication_date, author_id) VALUES ('The Casual Vacancy', 2012, 2);
 
 -- James Baldwin
-INSERT INTO books(title, publication_date, author_id) VALUES ('Go Tell It on the Mountain ', 1953, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('The Amen Corner ', 1954, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Notes of a Native Son ', 1955, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Giovannis Room ', 1956, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Nobody Knows My Name: More Notes of a Native Son ', 1961, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Another Country ', 1962, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('A Talk to Teachers ', 1963, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('The Fire Next Time ', 1963, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Blues for Mister Charlie ', 1964, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Going to Meet the Man ', 1965, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Tell Me How Long the Trains Been Gone ', 1968, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('No Name in the Street ', 1972, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('If Beale Street Could Talk ', 1974, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('The Devil Finds Work ', 1976, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Just Above My Head ', 1979, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Jimmys Blues ', 1983, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('The Evidence of Things Not Seen ', 1985, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('The Price of the Ticket ', 1985, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('The Cross of Redemption: Uncollected Writings ', 2010, 3);
-INSERT INTO books(title, publication_date, author_id) VALUES ('Jimmys Blues and Other Poems ', 2014, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Go Tell It on the Mountain', 1953, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('The Amen Corner', 1954, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Notes of a Native Son', 1955, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Giovannis Room', 1956, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Nobody Knows My Name: More Notes of a Native Son', 1961, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Another Country', 1962, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('A Talk to Teachers', 1963, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('The Fire Next Time', 1963, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Blues for Mister Charlie', 1964, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Going to Meet the Man', 1965, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Tell Me How Long the Trains Been Gone', 1968, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('No Name in the Street', 1972, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('If Beale Street Could Talk', 1974, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('The Devil Finds Work', 1976, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Just Above My Head', 1979, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Jimmys Blues', 1983, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('The Evidence of Things Not Seen', 1985, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('The Price of the Ticket', 1985, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('The Cross of Redemption: Uncollected Writings', 2010, 3);
+INSERT INTO books(title, publication_date, author_id) VALUES ('Jimmys Blues and Other Poems', 2014, 3);
 
 -- Jean Luis Borges
 INSERT INTO books(title, publication_date, author_id) VALUES ('Fervor de Buenos Aires', 1923, 4);
