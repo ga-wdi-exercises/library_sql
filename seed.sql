@@ -1,7 +1,7 @@
 TRUNCATE TABLE BOOKS;
 TRUNCATE TABLE AUTHORS;
 
-INSERT INTO authors(name, nationality, birth_year) VALUES ('Cao Xueqin',         'Chinese', 1715);
+INSERT INTO authors(name, nationality, birth_year) VALUES ('Cao Xueqin',         'China', 1715);
 INSERT INTO authors(name, nationality, birth_year) VALUES ('J.K. Rowling',       'United Kingdom', 1965);
 INSERT INTO authors(name, nationality, birth_year) VALUES ('James Baldwin',      'United States of America', 1924);
 INSERT INTO authors(name, nationality, birth_year) VALUES ('Jorge Luis Borges',  'Argentina', 1899);
