@@ -19,3 +19,13 @@
   -- Cry when you realize how long it's been
 
 -- Get all books which have `the` somewhere in their title (hint, look up LIKE/ILIKE)
+
+-- Add yourself as an author
+
+-- Add two books that you'd like to write (you can hard-code your id as the author id)
+
+-- Update one of your books to have a new title
+
+-- Delete your books
+
+-- Delete your author entry
