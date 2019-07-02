@@ -2,18 +2,27 @@
 
 ## Get Started
 
-Clone down this repo and open its contents in Atom. Then read through and follow the steps below.
+Clone down this repo and open its contents in VSCode. Then read through and follow the steps below.
 
 ## Creating Our Database
+
+One of two ways!
+
+From within your terminal environment:
 
 ```bash
 $ createdb library
 ```
 
-Note that this is a command-line utility that ships with Postgres, as an alternate to using the SQL command `CREATE DATABASE library;` inside `psql`.
+Or
 
-That means you should run this command from your Bash prompt -- not from inside `psql`.
+```bash
+# launch the psql cli
+$ psql
 
+# create the db using a SQL command
+> CREATE DATABASE library;
+```
 
 ## Inspecting The Schema
 
@@ -112,3 +121,9 @@ There are two exercises:
 
 * [Basic Queries](basic_queries.sql) - SELECT, INSERT, UPDATE, DELETE
 * [Advanced Queries](advanced_queries.sql) - JOINS
+
+For each exercise, write your queries in the corresponding .sql file. Then run the file using the terminal:
+
+```bash
+$ psql -d library < basic_queries.sql
+```
